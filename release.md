@@ -10,7 +10,7 @@ The Symfony PHP framework.
  * @adamwojs had their first pull request to symfony/symfony  merged 🥇
  * @PedroTroller had their first pull request to symfony/symfony  merged 🥇
 
-### Impactful contributors 
+### Impactful contributors 💪
 
  * @Warxcell reported the most bugs that were fixed 🐛
  * @fabpot and @nikolas-grekas reviewed the most pull requests 👀
