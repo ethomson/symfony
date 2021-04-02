@@ -6,7 +6,7 @@ The Symfony PHP framework.
 
  * @fliespl had their first pull request merged 🥇
  * @AndrolGenhald had their first pull request merged 🥇
- * @topikito had **two** pull requests merged 🥈
+ * @topikito had **two** pull requests merged 🥇🥇
  * @adamwojs had their first pull request merged 🥇
  * @PedroTroller had their first pull request merged 🥇
 
