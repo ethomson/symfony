@@ -18,7 +18,7 @@ The Symfony PHP framework.
  * @foobar added the most lines of code 🏋️‍♂️
  * @asdf had the most lines of code removed 🔪🩸
 
-### Changes [since v5.2.5](https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6)
+<details><summary><b>Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">since v5.2.5</a></b></summary>
 
 #### Security fixes
 
@@ -75,3 +75,5 @@ The Symfony PHP framework.
  * [Routing] Remove unnecessary references to User class in test fixtures #40463 by @chalasr (reviewed by @derrabus)
  * [Mailer] fix lowest allowed dependencies #40455 by @xabbuh (reviewed by @Nyholm)
  * Update translations for Norwegian Nynorsk (nn) #38756 #40435 by @glye (reviewed by @fabpot, @Nyholm)
+
+</details>
