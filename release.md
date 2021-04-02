@@ -2,7 +2,14 @@
 
 The Symfony PHP framework.
 
-### Changes [since v5.2.5](https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6):
+### New contributors 🥰
+
+* @fliespl had their first pull request merged
+* @AndrolGenhald had their first pull request merged
+* @topikito had **two** pull requests merged
+* @adamwojs had their first pull request merged
+
+### Changes [since v5.2.5](https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6)
 
 #### Security fixes
 
