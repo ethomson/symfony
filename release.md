@@ -4,13 +4,13 @@ The Symfony PHP framework.
 
 ### New contributors 🥰
 
- * @fliespl had their first pull request merged 🥇
- * @AndrolGenhald had their first pull request merged 🥇
- * @topikito had **two** pull requests merged 🥇🥇
- * @adamwojs had their first pull request merged 🥇
- * @PedroTroller had their first pull request merged 🥇
+ * @fliespl had their first pull request to symfony/symfony merged 🥇
+ * @AndrolGenhald had their first pull request to symfony/symfony  merged 🥇
+ * @topikito had **two** pull requests to symfony/symfony  merged 🥇🥇
+ * @adamwojs had their first pull request to symfony/symfony  merged 🥇
+ * @PedroTroller had their first pull request to symfony/symfony  merged 🥇
 
-### Impactful contributors
+### Impactful contributors 
 
  * @Warxcell reported the most bugs that were fixed 🐛
  * @fabpot and @nikolas-grekas reviewed the most pull requests 👀
