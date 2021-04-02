@@ -12,11 +12,10 @@ The Symfony PHP framework.
 
 ### Impactful contributors
 
- * @xxx reported the most bugs 🐛
- * @yyy reviewed the most pull requests 👀
- * @zzz had the most commits merged 📈
- * @foobar added the most lines of code 🏋️‍♂️
- * @asdf had the most lines of code removed 🔪🩸
+ * @Warxcell reported the most bugs that were fixed 🐛
+ * @fabpot and @nikolas-grekas reviewed the most pull requests 👀
+ * @nikolas-grekas had the most commits merged 📈 and added the most lines of code 🏋️‍♂️
+ * @fabpot removed the most lines of code ✂️🔪🩸
 
 ### Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">between v5.2.5...v5.2.6</a>
 
