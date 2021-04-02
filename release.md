@@ -2,14 +2,16 @@
 
 The Symfony PHP framework.
 
-Security fixes
+### Changes [since v5.2.5](https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6):
+
+#### Security fixes
 
  * [Security] Use concrete UserInterface and UserProviderInterface classes in the tests #40609 by @wouterj (reviewed by @nyholm, chalasr)
  * [Security] Use more concrete user classes in tests #40612 by @wouterj (reviewed by @chalasr)
  * [Security] Handle properly 'auto' option for remember me cookie security #40537 by @fliespl (reviewed by @nicolas-grekas, @chalasr, @wouterj)
  * [Security] Refresh original user in SwitchUserListener #39992 by @AndrolGenhald (reviewed by @derrabus, @fabpot, @maxhelias, @OskarStark)
 
-Bug fixes
+#### Bug fixes
 
  * [Form] error if the input string couldn't be parsed as a date #40598 by @xabbuh (reviewed by @fabpot, @oskarstark, @kamil-jakubowski, @yceruto)
  * [HttpClient] fix using stream_copy_to_stream() with responses cast to php streams #40587 by @nicolas-grekas (reviewed by @fabpot, @nyholm)
@@ -39,7 +41,7 @@ Bug fixes
  * [ErrorHandler] Added missing type annotations to FlattenException #40388 by @derrabus (reviewed by @fabpot, @stof, @yceruto)
  * [TwigBridge] Allow version 3 of the Twig extra packages #40407 by @derrabus (reviewed by @fabpot)
 
-Everything Else
+#### Everything Else
 
  * Release v5.2.6 #40617 by @fabdot (reviewed by @mary-doc)
  * [HttpKernel] fix docblock #40611 by @xabbuh (reviewed by @nyholm, @derrabus, @wouterj, @oskarstark)
