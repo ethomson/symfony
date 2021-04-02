@@ -18,7 +18,7 @@ The Symfony PHP framework.
  * @foobar added the most lines of code 🏋️‍♂️
  * @asdf had the most lines of code removed 🔪🩸
 
-<details><summary><b>Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">between v5.2.5...v5.2.6</a></b></summary>
+<details><summary><h3>Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">between v5.2.5...v5.2.6</a></h3></summary>
 
 #### Security fixes
 
