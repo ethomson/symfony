@@ -22,6 +22,8 @@ The Symfony PHP framework.
 
 <details><summary><b>Security fixes</b></summary>
 
+<br>
+
  * [Security] Use concrete UserInterface and UserProviderInterface classes in the tests #40609 by @wouterj (reviewed by @nyholm, chalasr)
  * [Security] Use more concrete user classes in tests #40612 by @wouterj (reviewed by @chalasr)
  * [Security] Handle properly 'auto' option for remember me cookie security #40537 by @fliespl (reviewed by @nicolas-grekas, @chalasr, @wouterj)
@@ -30,6 +32,8 @@ The Symfony PHP framework.
 </details>
 
 <details><summary><b>Bug fixes</b></summary>
+
+<br>
 
  * [Form] error if the input string couldn't be parsed as a date #40598 by @xabbuh (reviewed by @fabpot, @oskarstark, @kamil-jakubowski, @yceruto)
  * [HttpClient] fix using stream_copy_to_stream() with responses cast to php streams #40587 by @nicolas-grekas (reviewed by @fabpot, @nyholm)
@@ -62,6 +66,8 @@ The Symfony PHP framework.
 </details>
 
 <details><summary><b>Everything Else</b></summary>
+
+<br>
 
  * Release v5.2.6 #40617 by @fabdot (reviewed by @mary-doc)
  * [HttpKernel] fix docblock #40611 by @xabbuh (reviewed by @nyholm, @derrabus, @wouterj, @oskarstark)
