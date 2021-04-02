@@ -18,16 +18,18 @@ The Symfony PHP framework.
  * @foobar added the most lines of code 🏋️‍♂️
  * @asdf had the most lines of code removed 🔪🩸
 
-<h3><details><summary>Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">between v5.2.5...v5.2.6</a></summary>
+### Changes <a href="https://github.com/symfony/symfony/compare/v5.2.5...v5.2.6">between v5.2.5...v5.2.6</a>
 
-#### Security fixes
+<details><summary><b>Security fixes</b></summary>
 
  * [Security] Use concrete UserInterface and UserProviderInterface classes in the tests #40609 by @wouterj (reviewed by @nyholm, chalasr)
  * [Security] Use more concrete user classes in tests #40612 by @wouterj (reviewed by @chalasr)
  * [Security] Handle properly 'auto' option for remember me cookie security #40537 by @fliespl (reviewed by @nicolas-grekas, @chalasr, @wouterj)
  * [Security] Refresh original user in SwitchUserListener #39992 by @AndrolGenhald (reviewed by @derrabus, @fabpot, @maxhelias, @OskarStark)
 
-#### Bug fixes
+</details>
+
+<details><summary><b>Bug fixes</b></summary>
 
  * [Form] error if the input string couldn't be parsed as a date #40598 by @xabbuh (reviewed by @fabpot, @oskarstark, @kamil-jakubowski, @yceruto)
  * [HttpClient] fix using stream_copy_to_stream() with responses cast to php streams #40587 by @nicolas-grekas (reviewed by @fabpot, @nyholm)
@@ -57,7 +59,9 @@ The Symfony PHP framework.
  * [ErrorHandler] Added missing type annotations to FlattenException #40388 by @derrabus (reviewed by @fabpot, @stof, @yceruto)
  * [TwigBridge] Allow version 3 of the Twig extra packages #40407 by @derrabus (reviewed by @fabpot)
 
-#### Everything Else
+</details>
+
+<details><summary><b>Everything Else</b></summary>
 
  * Release v5.2.6 #40617 by @fabdot (reviewed by @mary-doc)
  * [HttpKernel] fix docblock #40611 by @xabbuh (reviewed by @nyholm, @derrabus, @wouterj, @oskarstark)
@@ -76,4 +80,4 @@ The Symfony PHP framework.
  * [Mailer] fix lowest allowed dependencies #40455 by @xabbuh (reviewed by @Nyholm)
  * Update translations for Norwegian Nynorsk (nn) #38756 #40435 by @glye (reviewed by @fabpot, @Nyholm)
 
-</details></h3>
+</details>
